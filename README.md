@@ -1,16 +1,33 @@
-## Hi there 👋
+# 🧠 Benoît — Portfolio GitHub
 
-<!--
-**ben-sentenac/ben-sentenac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenue sur mon dépôt index. Voici une vue d’ensemble de mes projets techniques.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🔧 Projets actifs
+
+| Dépôt | Description |
+|-------|-------------|
+| [agent-core](https://github.com/...) | Moteur de mesure énergétique RAPL |
+| [agent-config](https://github.com/...) | Fichiers de config JSON + validation |
+| [agent-export](https://github.com/...) | Export HTTP + NDJSON |
+
+---
+
+## 🧪 Expérimentations
+
+| Dépôt | Description |
+|-------|-------------|
+| [eventloop-probe](https://github.com/...) | Sondage de latence Node.js |
+| [carbon-intensity-parser](https://github.com/...) | Parsing CSV intensité carbone |
+
+---
+
+## 💤 Archives
+
+| Dépôt | Description |
+|-------|-------------|
+| [agent-v1](https://github.com/...) | Première version, obsolète |
+| [testbench](https://github.com/...) | Scripts de test et benchmarks |
+
 -->
