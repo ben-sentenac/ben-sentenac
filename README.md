@@ -8,9 +8,7 @@ Bienvenue sur mon dépôt index. Voici une vue d’ensemble de mes projets techn
 
 | Dépôt | Description |
 |-------|-------------|
-| [agent-core](https://github.com/...) | Moteur de mesure énergétique RAPL |
-| [agent-config](https://github.com/...) | Fichiers de config JSON + validation |
-| [agent-export](https://github.com/...) | Export HTTP + NDJSON |
+| [NodeImpact](https://github.com/ben-sentenac/NodeImpact) |Agent de mesure énergétique RAPL |
 
 ---
 
