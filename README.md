@@ -18,8 +18,8 @@ Bienvenue sur mon dépôt index. Voici une vue d’ensemble de mes projets techn
 
 | Dépôt | Description |
 |-------|-------------|
-| [eventloop-probe](https://github.com/...) | Sondage de latence Node.js |
-| [carbon-intensity-parser](https://github.com/...) | Parsing CSV intensité carbone |
+| [nodetree](https://github.com/ben-sentenac/nodetree) | version nodejs de tree (snapshot of directory structure) |
+| [video-editing-api](https://github.com/ben-sentenac/video-editing-api) | Simple video edition using streams and ffmpeg |
 
 ---
 
