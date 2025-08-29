@@ -20,6 +20,8 @@ Bienvenue sur mon dépôt index. Voici une vue d’ensemble de mes projets techn
 |-------|-------------|
 | [nodetree](https://github.com/ben-sentenac/nodetree) | version nodejs de tree (snapshot of directory structure) |
 | [video-editing-api](https://github.com/ben-sentenac/video-editing-api) | Simple video edition using streams and ffmpeg |
+| [node-net-module-chat-app](https://github.com/ben-sentenac/node_net_module_chat_app) | Simple chat app from scratch with net module |
+
 
 ---
 
