@@ -9,6 +9,7 @@ Bienvenue sur mon dépôt index. Voici une vue d’ensemble de mes projets techn
 | Dépôt | Description |
 |-------|-------------|
 | [NodeImpact](https://github.com/ben-sentenac/NodeImpact) |Agent de mesure énergétique RAPL |
+| [taskify](https://github.com/ben-sentenac/taskify) | Simple task manager cli |
 
 ---
 
