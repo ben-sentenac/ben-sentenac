@@ -20,7 +20,7 @@ Bienvenue sur mon dépôt index. Voici une vue d’ensemble de mes projets techn
 ## scripts
 | Dépôt | Description |
 |-------|-------------|
-| [scripts](https://github.com/ben-sentenac/scripts) | divers helpers et autmation en bash |
+| [scripts](https://github.com/ben-sentenac/scripts) | divers helpers et automations en bash |
 
 
 ##  Expérimentations
