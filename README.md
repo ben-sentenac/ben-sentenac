@@ -1,10 +1,10 @@
-# 🧠 Benoît — Portfolio GitHub
+#  Benoît — Portfolio GitHub
 
 Bienvenue sur mon dépôt index. Voici une vue d’ensemble de mes projets techniques et experimentations
 
 ---
 
-## 🔧 Projets actifs
+##  Projets actifs
 
 | Dépôt | Description |
 |-------|-------------|
@@ -17,7 +17,13 @@ Bienvenue sur mon dépôt index. Voici une vue d’ensemble de mes projets techn
 
 ---
 
-## 🧪 Expérimentations
+## scripts
+| Dépôt | Description |
+|-------|-------------|
+| [scripts](https://github.com/ben-sentenac/scripts) | divers helpers et autmation en bash |
+
+
+##  Expérimentations
 
 | Dépôt | Description |
 |-------|-------------|
@@ -30,7 +36,7 @@ Bienvenue sur mon dépôt index. Voici une vue d’ensemble de mes projets techn
 
 ---
 
-## 💤 Archives
+##  Archives
 
 | Dépôt | Description |
 |-------|-------------|
