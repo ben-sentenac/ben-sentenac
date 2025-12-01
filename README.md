@@ -1,6 +1,43 @@
 #  Benoît — Portfolio GitHub
 
-Bienvenue sur mon dépôt index. Voici une vue d’ensemble de mes projets techniques et experimentations
+Salut, moi c'est Ben
+
+Je code par passion et je m'intéresse surtout à un sujet :
+
+> **l'impact climatique et énergétique du web.**
+
+Je pense que le web actuel est :
+- trop lourd,
+- trop énergivore,
+- rempli de superflu.
+
+Avec **[web-resilience](https://github.com/web-resilience)**, j'explore une autre voie :  
+un web plus **sobre**, **utile** et **accessible**, conçu dès le départ avec un **budget carbone** en tête.
+
+---
+
+##  Ce que je fais
+
+-  Éco-conception web & sobriété numérique  
+-  Expérimentations avec **Node.js**  
+-  Création d'outils : audit green, générateur de sites éco-conçus orientés budget carbone  
+-  Réduction du poids des pages et de la consommation énergétique
+
+---
+
+##  Ma vision
+
+Un bon site n'est pas celui qui en fait le plus,  
+mais celui qui fait **exactement ce qu'il faut**,  
+avec le **minimum de ressources**.
+
+---
+
+##  Me trouver
+
+- GitHub perso : **[@ben-sentenac](https://github.com/ben-sentenac)**
+- Agence : **[web-resilience](https://github.com/web-resilience)**  
+- Ouvert aux échanges sur l'éco-conception, la perf et la sobriété du web.
 
 ---
 
