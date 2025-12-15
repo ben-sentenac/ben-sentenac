@@ -45,10 +45,10 @@ avec le **minimum de ressources**.
 
 | Dépôt | Description |
 |-------|-------------|
-| [NodeImpact](https://github.com/ben-sentenac/NodeImpact) |Agent de mesure énergétique RAPL |
+| [NodeFootPrint](https://github.com/web-resilience/NodeFootPrint) |Agent de mesure énergétique RAPL |
 | [projify](https://github.com/ben-sentenac/projify) | Fastify project starter (js or typescript) |
 | [taskify](https://github.com/ben-sentenac/taskify) | Simple task manager cli |
-| [web-09-website](https://github.com/ben-sentenac/bsr-website-nextjs-migration) | nextjs website de web-09 |
+| [nodetree](https://github.com/ben-sentenac/nodetree) | version nodejs de tree (snapshot of directory structure) |
 | [chanvre-ariegeois-website](https://github.com/ben-sentenac/chanvre-ariegeois-new-theme) | theme wordpress chanvre ariegeois |
 | [nodeforge](https://github.com/ben-sentenac/nodeForge) | utilities and generator functions |
 
