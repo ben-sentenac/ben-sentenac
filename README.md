@@ -1,43 +1,64 @@
-#  Benoît — Portfolio GitHub
+# Benoît Sentenac
 
-Salut, moi c'est Ben
+Energy-aware web systems engineer.
 
-Je code par passion et je m'intéresse surtout à un sujet :
-
-> **l'impact climatique et énergétique du web.**
-
-Je pense que le web actuel est :
-- trop lourd,
-- trop énergivore,
-- rempli de superflu.
-
-Avec **[web-resilience](https://github.com/web-resilience)**, j'explore une autre voie :  
-un web plus **sobre**, **utile** et **accessible**, conçu dès le départ avec un **budget carbone** en tête.
+I design and build high-performance web architectures with a strong focus on runtime behavior, infrastructure efficiency and energy impact.
 
 ---
 
-##  Ce que je fais
+## 🧠 Core Expertise
 
--  Éco-conception web & sobriété numérique  
--  Expérimentations avec **Node.js**  
--  Création d'outils : audit green, générateur de sites éco-conçus orientés budget carbone  
--  Réduction du poids des pages et de la consommation énergétique
-
----
-
-##  Ma vision
-
-Un bon site n'est pas celui qui en fait le plus,  
-mais celui qui fait **exactement ce qu'il faut**,  
-avec le **minimum de ressources**.
+- Node.js performance engineering  
+- Runtime analysis and system behavior  
+- Energy and carbon-aware software design  
+- HTTP caching and infrastructure optimization  
+- Lightweight and durable web architectures  
 
 ---
 
-##  Me trouver
+## 🔬 Open Source Work
 
-- GitHub perso : **[@ben-sentenac](https://github.com/ben-sentenac)**
-- Agence : **[web-resilience](https://github.com/web-resilience)**  
-- Ouvert aux échanges sur l'éco-conception, la perf et la sobriété du web.
+### NodeFootPrint
+
+Creator of **NodeFootPrint** — an open-source engine designed to measure and analyze the energy footprint of Node.js applications.
+
+NodeFootPrint explores:
+
+- CPU workload analysis  
+- Energy estimation models  
+- System-level metrics  
+- Performance–energy correlation  
+- Carbon-aware computation models  
+
+The goal: understand how software behavior translates into energy impact.
+
+---
+
+## ⚙️ Production Engineering
+
+Beyond tooling and research, I apply the same engineering principles to real-world systems, including:
+
+- High-performance WordPress architectures  
+- Technical audits (performance, caching, infrastructure)  
+- Sustainable optimization for local businesses and public institutions  
+- Server and runtime-level performance diagnostics  
+
+---
+
+## 🎯 Engineering Philosophy
+
+Performance is not only about speed.  
+It is about efficiency, clarity and long-term technical responsibility.
+
+Software should be measurable.  
+Systems should be understandable.  
+Optimization should be intentional.
+
+---
+
+## 📍 Based in France
+
+Independent engineer working on performance engineering, sustainable web systems and energy-aware software architecture.
 
 ---
 
